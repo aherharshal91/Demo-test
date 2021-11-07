@@ -2,3 +2,6 @@ we have first commit
 we have 2nd commit
 we have 3rd commit
 we have to add data into page
+
+
+we check both file data merg or not in one file
